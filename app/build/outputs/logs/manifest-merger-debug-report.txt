@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/b2cf31b9f7b850c7220bbac4dabadc2f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0-alpha01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/3385d8ab8e245322fb1798c914ce4b03/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/616d406afec3f179fa0e66f3b869c8b1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/e58e38634e8e19f49d965e37441fa21e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/e2e26bdc1e6631b16d80ef9f563a2d55/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/b51e40ec04f936be49dc7b2f1ebb4959/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/788b611d1f2df4d80783c7f1d90d0607/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/b813104694dd479a74592ca1a6834c77/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/3b935ab1150a984c522661d5bdb637eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/fdb872679fbb09eb8fb7bfc7218ddf0b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta02] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/de8b42325da3f07d5be7a81dccd222f0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta02] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/477a5169846debfae4416fba2b37445b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/a36e468c2383620d462f34cdcfa7042c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d625d6deadaa49255b8343046b995934/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/8a7bd1ff0ac081981dc2e94c0d612506/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/3e3a2107a134ce7e625af9e619bce721/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/9c5a21b4c25e7c2119db485f7489c440/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/ef8b2c09f130274ca84aff4f1cdd08fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/98a28b90d185d578b956408c54c3b578/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/22fded1daafb5f5017fd421385582e23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/dc62003387fcd3ad2921d63b2dc5c692/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/f62b1f88099a692321b57db829c9cef7/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:3:11-43
+		INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/616d406afec3f179fa0e66f3b869c8b1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/616d406afec3f179fa0e66f3b869c8b1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d625d6deadaa49255b8343046b995934/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d625d6deadaa49255b8343046b995934/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/8a7bd1ff0ac081981dc2e94c0d612506/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/8a7bd1ff0ac081981dc2e94c0d612506/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0-alpha01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d625d6deadaa49255b8343046b995934/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.gevcorst.blackfyre.SplashActivity
+ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:theme
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:13:9-53
+	android:name
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:12:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:14:9-17:25
+action#android.intent.action.MAIN
+ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:15:13-64
+	android:name
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:15:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:16:13-72
+	android:name
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:16:23-70
+activity#com.gevcorst.blackfyre.MainActivity
+ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:19:9-20:20
+	android:name
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:19:19-47
+meta-data#preloaded_fonts
+ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:22:9-24:60
+	android:resource
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:24:17-58
+	android:name
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml:23:17-47
+uses-sdk
+INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/b2cf31b9f7b850c7220bbac4dabadc2f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/b2cf31b9f7b850c7220bbac4dabadc2f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0-alpha01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/3385d8ab8e245322fb1798c914ce4b03/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.2.0-alpha01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/3385d8ab8e245322fb1798c914ce4b03/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/616d406afec3f179fa0e66f3b869c8b1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/616d406afec3f179fa0e66f3b869c8b1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/e58e38634e8e19f49d965e37441fa21e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/e58e38634e8e19f49d965e37441fa21e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/e2e26bdc1e6631b16d80ef9f563a2d55/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/e2e26bdc1e6631b16d80ef9f563a2d55/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/b51e40ec04f936be49dc7b2f1ebb4959/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/b51e40ec04f936be49dc7b2f1ebb4959/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/788b611d1f2df4d80783c7f1d90d0607/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/788b611d1f2df4d80783c7f1d90d0607/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/b813104694dd479a74592ca1a6834c77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/b813104694dd479a74592ca1a6834c77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/3b935ab1150a984c522661d5bdb637eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/3b935ab1150a984c522661d5bdb637eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/fdb872679fbb09eb8fb7bfc7218ddf0b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/fdb872679fbb09eb8fb7bfc7218ddf0b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta02] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/de8b42325da3f07d5be7a81dccd222f0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta02] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/de8b42325da3f07d5be7a81dccd222f0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta02] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/477a5169846debfae4416fba2b37445b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta02] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/477a5169846debfae4416fba2b37445b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/a36e468c2383620d462f34cdcfa7042c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/a36e468c2383620d462f34cdcfa7042c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d625d6deadaa49255b8343046b995934/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d625d6deadaa49255b8343046b995934/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/8a7bd1ff0ac081981dc2e94c0d612506/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/8a7bd1ff0ac081981dc2e94c0d612506/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/3e3a2107a134ce7e625af9e619bce721/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/3e3a2107a134ce7e625af9e619bce721/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/9c5a21b4c25e7c2119db485f7489c440/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/9c5a21b4c25e7c2119db485f7489c440/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/ef8b2c09f130274ca84aff4f1cdd08fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/ef8b2c09f130274ca84aff4f1cdd08fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/98a28b90d185d578b956408c54c3b578/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/98a28b90d185d578b956408c54c3b578/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/22fded1daafb5f5017fd421385582e23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/22fded1daafb5f5017fd421385582e23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/dc62003387fcd3ad2921d63b2dc5c692/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/dc62003387fcd3ad2921d63b2dc5c692/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/f62b1f88099a692321b57db829c9cef7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/f62b1f88099a692321b57db829c9cef7/AndroidManifest.xml:20:5-44
+INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/src/main/AndroidManifest.xml

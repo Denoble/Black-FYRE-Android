@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Black Fyre</string>
+    <string name="App_Title">BLACK FYRE</string>
+    <string name="BlackFyre_Title_Logo">BlackFyre</string>
+    <string name="Fire_Of_BlackFire">fireOfBlackFire</string>
+    <string name="near_me">Near Me</string>
+    <string name="hot_spots">HotSpots</string>
+    <string name="the_directory">The Directory</string>
+    <string name="AppLogo">App Logo</string>
+</resources>
