@@ -4,7 +4,10 @@
     <color name="colorPrimaryDark">#000000</color>
     <color name="colorAccent">#018786</color>
     <color name="colorWhite">#FFFFFF</color>
-    <color name="colorSecondary">#038387</color>
+    <color name="mainBackground">#222222</color>
+    <color name="colorSecondary">#ff8d01</color>
+    <color name="navText">#929292</color>
+    <color name="navBar">#2d2d2d</color>
     <color name="colorDivider">#455A64</color>
     <color name="dimgray">#696969</color>
 </resources>

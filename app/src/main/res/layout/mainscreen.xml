@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context="com.gevcorst.blackfyre.login.MainScreen">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent"
+                                                       android:layout_height="match_parent"
+                                                       android:background="@color/mainBackground"
+                                                       android:id="@+id/text">
+
+        <ImageButton
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:id="@+id/email"
+                app:layout_constraintStart_toEndOf="@+id/facebook"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintEnd_toStartOf="@+id/gmail"
+                app:layout_constraintBottom_toTopOf="@+id/guideline2" android:layout_marginStart="8dp"
+                android:background="@drawable/rounded_corners_imagebutton" android:src="@drawable/ic_blackfyre"
+                android:scaleType="centerInside" android:adjustViewBounds="true"
+                android:contentDescription="@string/signInWithEmail"/>
+        <ImageButton
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:id="@+id/facebook"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/email"
+                app:layout_constraintBottom_toBottomOf="@+id/email" app:layout_constraintTop_toTopOf="@+id/email"
+                android:layout_marginStart="8dp" android:background="@drawable/rounded_corners_imagebutton"
+                android:src="@drawable/ic_fireofblackfyre" android:scaleType="centerInside"
+                android:adjustViewBounds="true" android:contentDescription="@string/loginInWithGmail"/>
+        <ImageButton
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:id="@+id/gmail" app:layout_constraintStart_toEndOf="@+id/email"
+                app:layout_constraintHorizontal_bias="0.5" app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintBottom_toBottomOf="@+id/email" app:layout_constraintTop_toTopOf="@+id/email"
+                android:layout_marginStart="8dp" android:layout_marginEnd="8dp"
+                android:background="@drawable/rounded_corners_imagebutton" android:src="@drawable/ic_blackfyre_logo"
+                android:scaleType="centerInside" android:adjustViewBounds="true"
+                android:contentDescription="@string/signInWithFacebook"/>
+        <androidx.constraintlayout.widget.Guideline android:layout_width="wrap_content"
+                                                    android:layout_height="wrap_content" android:id="@+id/guideline2"
+                                                    app:layout_constraintGuide_begin="20dp"
+                                                    app:layout_constraintGuide_percent="0.65"
+                                                    android:orientation="horizontal"/>
+        <TextView
+                android:text="@string/App_Title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView" app:layout_constraintBottom_toTopOf="@+id/email"
+                android:layout_marginEnd="8dp" app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="8dp"
+                android:layout_marginBottom="24dp" android:gravity="center" android:textSize="36sp"
+                android:textColor="@color/colorWhite"/>
+        <ImageView
+                android:layout_width="72dp"
+                android:layout_height="79dp" app:srcCompat="@drawable/ic_blackfyre_logo"
+                android:id="@+id/imageView" app:layout_constraintBottom_toTopOf="@+id/textView"
+                app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
+                app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="8dp"
+                android:layout_marginBottom="32dp" android:contentDescription="@string/AppLogo"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    </layout>

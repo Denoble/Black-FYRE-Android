@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/uchegodfrey/AndroidStudioProjects/BlackFyre/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/b2cf31b9f7b850c7220bbac4dabadc2f/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/6af73bb1f3ce1b88708ba09e6c9fe0a6/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

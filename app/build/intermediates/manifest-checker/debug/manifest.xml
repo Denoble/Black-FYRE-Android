@@ -19,7 +19,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.gevcorst.blackfyre.SplashActivity"
+            android:name="com.gevcorst.blackfyre.main.SplashActivity"
             android:theme="@style/AppTheme.SplashScreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,7 +27,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.gevcorst.blackfyre.MainActivity" >
+        <activity android:name="com.gevcorst.blackfyre.main.MainActivity" >
         </activity>
 
         <meta-data
