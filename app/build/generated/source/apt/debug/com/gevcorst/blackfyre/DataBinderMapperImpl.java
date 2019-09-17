@@ -8,6 +8,7 @@ import androidx.databinding.DataBindingComponent;
 import androidx.databinding.ViewDataBinding;
 import com.gevcorst.blackfyre.databinding.ActivityMainBindingImpl;
 import com.gevcorst.blackfyre.databinding.MainscreenBindingImpl;
+import com.gevcorst.blackfyre.databinding.ProfileBindingImpl;
 import java.lang.IllegalArgumentException;
 import java.lang.Integer;
 import java.lang.Object;
@@ -23,11 +24,14 @@ public class DataBinderMapperImpl extends DataBinderMapper {
 
   private static final int LAYOUT_MAINSCREEN = 2;
 
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(2);
+  private static final int LAYOUT_PROFILE = 3;
+
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(3);
 
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.gevcorst.blackfyre.R.layout.activity_main, LAYOUT_ACTIVITYMAIN);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.gevcorst.blackfyre.R.layout.mainscreen, LAYOUT_MAINSCREEN);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.gevcorst.blackfyre.R.layout.profile, LAYOUT_PROFILE);
   }
 
   @Override
@@ -50,6 +54,12 @@ public class DataBinderMapperImpl extends DataBinderMapper {
             return new MainscreenBindingImpl(component, view);
           }
           throw new IllegalArgumentException("The tag for mainscreen is invalid. Received: " + tag);
+        }
+        case  LAYOUT_PROFILE: {
+          if ("layout/profile_0".equals(tag)) {
+            return new ProfileBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for profile is invalid. Received: " + tag);
         }
       }
     }
@@ -104,11 +114,12 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerLayoutIdLookup {
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(2);
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(3);
 
     static {
       sKeys.put("layout/activity_main_0", com.gevcorst.blackfyre.R.layout.activity_main);
       sKeys.put("layout/mainscreen_0", com.gevcorst.blackfyre.R.layout.mainscreen);
+      sKeys.put("layout/profile_0", com.gevcorst.blackfyre.R.layout.profile);
     }
   }
 }

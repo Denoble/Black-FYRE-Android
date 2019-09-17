@@ -14,4 +14,13 @@
     <string name="signInWithEmail">email</string>
     <string name="signInWithFacebook">facebook</string>
     <string name="loginInWithGmail">gmail</string>
+    <string name="sign_in">Sign in with</string>
+    <string name="profile_Image">profileImage</string>
+    <string name="userfavorite">User favorite</string>
+    <string name="userNameHint">Username/Email</string>
+    <string name="password">Password</string>
+    <string name="signIn">Sign in</string>
+    <string name="forgotPassword">Forgot password ?</string>
+    <string name="signInWithGmail">  Sign In with gmail</string>
+    <string name="FaceBookSignIn">Sign in with facebook</string>
 </resources>

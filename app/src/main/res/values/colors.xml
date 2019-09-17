@@ -5,7 +5,8 @@
     <color name="colorAccent">#018786</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="mainBackground">#222222</color>
-    <color name="colorSecondary">#ff8d01</color>
+    <color name="colorSecondary">#FF8D01</color>
+    <color name="colorSkyBlue">#3B5998</color>
     <color name="navText">#929292</color>
     <color name="navBar">#2d2d2d</color>
     <color name="colorDivider">#455A64</color>
