@@ -16,8 +16,8 @@
                 android:id="@+id/username"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="45dp"
                 android:layout_marginTop="32dp"
-                android:layout_marginEnd="45dp"
                 android:autofillHints="@string/userNameHint"
                 android:backgroundTint="@color/colorSecondary"
                 android:ems="10"
@@ -25,7 +25,7 @@
                 android:hint="@string/userNameHint"
                 android:inputType="textPersonName"
                 android:textColor="@color/colorWhite"
-                app:layout_constraintEnd_toStartOf="@+id/guideline_vertical"
+                app:layout_constraintStart_toStartOf="@+id/guideline_vertical"
                 app:layout_constraintTop_toBottomOf="@+id/imageView5"
                 tools:text="@string/userNameHint" />
 
@@ -100,15 +100,15 @@
                 android:layout_width="200dp"
                 android:layout_height="50dp"
 
-                android:layout_marginStart="45dp"
-                android:layout_marginTop="16dp"
+                android:layout_marginTop="32dp"
+                android:layout_marginEnd="45dp"
                 android:background="@drawable/rounded_corners_imagebutton"
                 android:contentDescription="@string/signInWithGmail"
                 android:drawableStart="@drawable/login_gmail"
                 android:gravity="center"
                 android:padding="12dp"
                 android:text="@string/signInWithGmail"
-                app:layout_constraintStart_toStartOf="@+id/guideline_vertical"
+                app:layout_constraintEnd_toStartOf="@+id/guideline_vertical"
                 app:layout_constraintTop_toBottomOf="@+id/imageView5"
                 tools:text="@string/FaceBookSignIn" />
 
