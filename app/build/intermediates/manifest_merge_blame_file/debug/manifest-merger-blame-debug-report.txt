@@ -1,0 +1,115 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.gevcorst.blackfyre"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml
+10
+11    <!-- Include required permissions for Google Maps API to run. -->
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.android.gms:play-services-maps:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d5748a21f85ed24e09f7f38bb8a5224d/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+12-->[com.google.android.gms:play-services-maps:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d5748a21f85ed24e09f7f38bb8a5224d/play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->[com.google.android.gms:play-services-maps:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d5748a21f85ed24e09f7f38bb8a5224d/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+13-->[com.google.android.gms:play-services-maps:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d5748a21f85ed24e09f7f38bb8a5224d/play-services-maps-17.0.0/AndroidManifest.xml:24:22-64
+14
+15    <uses-feature
+15-->[com.google.android.gms:play-services-maps:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d5748a21f85ed24e09f7f38bb8a5224d/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+16        android:glEsVersion="0x00020000"
+16-->[com.google.android.gms:play-services-maps:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d5748a21f85ed24e09f7f38bb8a5224d/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+17        android:required="true" />
+17-->[com.google.android.gms:play-services-maps:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d5748a21f85ed24e09f7f38bb8a5224d/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+18
+19    <application
+19-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:5:5-29:19
+20        android:allowBackup="true"
+20-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:6:13-39
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.1.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/563be99a7f8ba6717b67ce50a8a4b6a6/core-1.1.0/AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:7:13-47
+24        android:label="@string/app_name"
+24-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:8:13-45
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:9:13-58
+26        android:supportsRtl="true"
+26-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:10:13-39
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:11:13-44
+29        <activity
+29-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:12:9-14:85
+30            android:name="com.gevcorst.blackfyre.AutenticatedUser"
+30-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:13:17-49
+31            android:label="@string/title_activity_autenticated_user" />
+31-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:14:17-73
+32        <activity
+32-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:15:9-23:20
+33            android:name="com.gevcorst.blackfyre.main.SplashActivity"
+33-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:16:17-52
+34            android:theme="@style/AppTheme.SplashScreen" >
+34-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:17:17-61
+35            <intent-filter>
+35-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:18:13-22:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:19:17-69
+36-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:19:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:21:17-77
+38-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:21:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity android:name="com.gevcorst.blackfyre.main.MainActivity" />
+41-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:24:9-64
+41-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:24:19-52
+42
+43        <meta-data
+43-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:26:9-28:61
+44            android:name="preloaded_fonts"
+44-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:27:17-47
+45            android:resource="@array/preloaded_fonts" />
+45-->/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/AndroidManifest.xml:28:17-58
+46        <!-- Needs to be explicitly declared on P+ -->
+47        <uses-library
+47-->[com.google.android.gms:play-services-maps:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d5748a21f85ed24e09f7f38bb8a5224d/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+48            android:name="org.apache.http.legacy"
+48-->[com.google.android.gms:play-services-maps:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d5748a21f85ed24e09f7f38bb8a5224d/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+49            android:required="false" />
+49-->[com.google.android.gms:play-services-maps:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/d5748a21f85ed24e09f7f38bb8a5224d/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+50
+51        <activity
+51-->[com.google.android.gms:play-services-base:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/c8887b79047140059e81a3c731f071e3/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+52            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+52-->[com.google.android.gms:play-services-base:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/c8887b79047140059e81a3c731f071e3/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+53            android:exported="false"
+53-->[com.google.android.gms:play-services-base:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/c8887b79047140059e81a3c731f071e3/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+54            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+54-->[com.google.android.gms:play-services-base:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/c8887b79047140059e81a3c731f071e3/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+55
+56        <meta-data
+56-->[com.google.android.gms:play-services-basement:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/de71e8bb9a42865ea72ec2789a4fbde0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+57            android:name="com.google.android.gms.version"
+57-->[com.google.android.gms:play-services-basement:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/de71e8bb9a42865ea72ec2789a4fbde0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+58            android:value="@integer/google_play_services_version" />
+58-->[com.google.android.gms:play-services-basement:17.0.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/de71e8bb9a42865ea72ec2789a4fbde0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+59
+60        <provider
+60-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+61            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+61-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+62            android:authorities="com.gevcorst.blackfyre.lifecycle-process"
+62-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+63            android:exported="false"
+63-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+64            android:multiprocess="true" />
+64-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+65    </application>
+66
+67</manifest>

@@ -8,8 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:textColor">@color/colorWhite</item>
         <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:editTextColor">@color/colorWhite</item>
         <item name="android:navigationBarColor">@color/colorPrimary</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+
     </style>
     <!-- SplashScreen theme. -->
     <style name="AppTheme.SplashScreen" parent="AppTheme">
@@ -23,5 +25,14 @@
         <item name="android:textSize">20sp</item>
         <item name="android:scaleX">0.8</item>
         <item name="android:scaleY">0.8</item>
+    </style>
+    <style name="search_view_style" parent="Theme.AppCompat.Light">
+
+        <item name="queryHint">@string/search_hotspot</item>
+        <item name="searchIcon">@drawable/ic_search_white</item>
+        <item name="submitBackground">@color/navText</item>
+        <item name="queryBackground">@color/navText</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textColorHint">@color/colorWhite</item>
     </style>
 </resources>

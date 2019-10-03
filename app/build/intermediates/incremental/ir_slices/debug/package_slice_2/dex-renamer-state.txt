@@ -1,4 +1,0 @@
-#Mon Sep 02 12:25:30 EDT 2019
-base.0=/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/build/intermediates/transforms/dexMerger/debug/2
-path.0=classes.dex
-renamed.0=classes.dex

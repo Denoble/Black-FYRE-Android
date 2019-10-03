@@ -23,4 +23,22 @@
     <string name="forgotPassword">Forgot password ?</string>
     <string name="signInWithGmail">  Sign In with gmail</string>
     <string name="FaceBookSignIn">Sign in with facebook</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="username">Username</string>
+    <string name="confirmPassword">Confirm password</string>
+    <string name="signup">sign up</string>
+    <string name="title_activity_autenticated_user">AutenticatedUser</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="navigate_to_home">navigate To Home</string>
+    <string name="home">home</string>
+    <string name="directory_list">directory list</string>
+    <string name="navigate_to_near_me">navigate to near me</string>
+    <string name="navigate_to_directory">navigate to directory</string>
+    <string name="hotspot">Hotspots</string>
+    <string name="search">Search</string>
+    <string name="search_black_business">Search for black businesses</string>
+    <string name="search_hotspot">Search for a hotspot</string>
+    <string name="Apply">Apply</string>
 </resources>

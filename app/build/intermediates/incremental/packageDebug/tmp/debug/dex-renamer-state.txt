@@ -1,7 +1,7 @@
-#Mon Sep 02 22:24:49 EDT 2019
-base.0=/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+#Thu Sep 26 20:02:04 EDT 2019
+base.0=/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+base.1=/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

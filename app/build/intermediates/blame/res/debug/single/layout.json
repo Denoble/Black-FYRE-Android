@@ -8,7 +8,19 @@
         "source": "/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/res/layout/profile.xml"
     },
     {
+        "merged": "/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/login_fragment.xml",
+        "source": "/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/res/layout/login_fragment.xml"
+    },
+    {
+        "merged": "/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/register_profile.xml",
+        "source": "/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/res/layout/register_profile.xml"
+    },
+    {
         "merged": "/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
         "source": "/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/hot_spot.xml",
+        "source": "/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/src/main/res/layout/hot_spot.xml"
     }
 ]

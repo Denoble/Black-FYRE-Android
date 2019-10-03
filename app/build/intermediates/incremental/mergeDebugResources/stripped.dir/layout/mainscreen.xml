@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                           
+                                                      
+                                                                
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/mainBackground"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="18dp" android:tag="layout/mainscreen_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" tools:context="com.gevcorst.blackfyre.login.MainScreen">
+
+        <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guideline2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_begin="20dp"
+                app:layout_constraintGuide_percent="0.6" />
+
+        <TextView
+                android:id="@+id/textView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:gravity="center"
+                android:text="@string/sign_in"
+                android:textColor="@color/colorWhite"
+                android:textSize="24sp"
+                app:layout_constraintBottom_toTopOf="@+id/facebook"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+        <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="72dp"
+                android:layout_height="79dp"
+                android:layout_marginBottom="16dp"
+
+                android:contentDescription="@string/AppLogo"
+                android:scaleType="centerInside"
+                app:layout_constraintBottom_toTopOf="@+id/textView"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:srcCompat="@drawable/ic_blackfyre_logo" />
+
+        <ImageButton
+                android:id="@+id/facebook"
+                android:layout_width="0dp"
+                android:layout_height="55dp"
+                android:adjustViewBounds="true"
+                android:background="@drawable/rounded_corners_imagebutton"
+                android:contentDescription="@string/loginInWithGmail"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_facebook"
+                app:layout_constraintBottom_toTopOf="@+id/guideline2"
+                app:layout_constraintEnd_toStartOf="@+id/gmail"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/email" />
+
+        <ImageButton
+                android:id="@+id/email"
+                android:layout_width="0dp"
+                android:layout_height="55dp"
+                android:adjustViewBounds="true"
+                android:background="@drawable/rounded_corners_imagebutton"
+                android:contentDescription="@string/signInWithEmail"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_email"
+                app:layout_constraintBottom_toBottomOf="@+id/facebook"
+                app:layout_constraintEnd_toStartOf="@+id/facebook"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent" />
+
+        <ImageButton
+                android:id="@+id/gmail"
+                android:layout_width="0dp"
+                android:layout_height="55dp"
+                android:adjustViewBounds="true"
+                android:background="@drawable/rounded_corners_imagebutton"
+                android:contentDescription="@string/signInWithFacebook"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_google"
+                app:layout_constraintBottom_toBottomOf="@+id/facebook"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/facebook" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+             

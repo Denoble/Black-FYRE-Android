@@ -4,7 +4,7 @@
             "outputFile": "/Users/uchegodfrey/AndroidStudioProjects/KotlinProjects/Black-FYRE-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/1e0fbad61689dae1972f86164bec359e/res/values-v16/values-v16.xml",
+                    "source": "/Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/a234096cfe2b03875d7487b529ffd323/appcompat-1.0.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/bced0f8166210866bd18e3eb405e946c/res/values-v16/values-v16.xml",
+                    "source": "/Users/uchegodfrey/.gradle/caches/transforms-2/files-2.1/563be99a7f8ba6717b67ce50a8a4b6a6/core-1.1.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
